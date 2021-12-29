@@ -1,0 +1,27 @@
+{
+  "name": "q2-airdrop",
+  "version": "1.0.0",
+  "description": "For creating a basic aidrop in Solana blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantkumar23/q2-airdrop.git"
+  },
+  "keywords": [
+    "airdrop",
+    "solana",
+    "blockchain"
+  ],
+  "author": "Sushant Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushantkumar23/q2-airdrop/issues"
+  },
+  "homepage": "https://github.com/sushantkumar23/q2-airdrop#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0"
+  }
+}
